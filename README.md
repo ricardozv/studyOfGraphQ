@@ -1,0 +1,2 @@
+# studyOfGraphQ
+GraphQl and nodeJS 
