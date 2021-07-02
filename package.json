@@ -1,0 +1,12 @@
+{
+  "name": "studyOfGraphQ",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ricardozv/studyOfGraphQ.git",
+  "author": "ricardozv <ricardosilvanet03@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.25.2",
+    "graphql": "^15.5.1"
+  }
+}
